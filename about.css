@@ -102,11 +102,11 @@ nav {
 
 .info-box li {
   margin-bottom: 12px;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .info-box strong {
-  color: #3a506b;
+  color: #444;
 }
 
 /* Text Box */
@@ -122,6 +122,7 @@ nav {
   margin-bottom: 18px;
   font-size: 16px;
   color: #444;
+  font-weight: bold;
 }
 
 /* Responsive Design */
