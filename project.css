@@ -159,8 +159,8 @@ nav {
   }
 
   .nav-links {
-    flex-direction: row;  /* keep horizontal */
-    flex-wrap: wrap;      /* wrap to next line if space is less */
+    flex-direction: row;  
+    flex-wrap: wrap;      
     gap: 10px;
     justify-content: center;
     padding: 9px 0;
